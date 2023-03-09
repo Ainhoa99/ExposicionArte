@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: rgba(95, 158, 160, 0.381);
+}
+
+#contenido{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height:500px;
+    justify-content: space-around;
+}
+button{
+    border-radius: 5px;
+    background-color: rgba(95, 158, 160, 0.381);
+}
+h3{
+    font-weight: bold;
+}
+h1{
+    padding: 30px;
+}
